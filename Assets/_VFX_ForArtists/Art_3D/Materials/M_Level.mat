@@ -11,7 +11,7 @@ Material:
   m_Shader: {fileID: -6465566751694194690, guid: 0f53e19363c3db24eb3795224ad4f191, type: 3}
   m_ShaderKeywords: _EMISSION
   m_LightmapFlags: 2
-  m_EnableInstancingVariants: 0
+  m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
@@ -48,16 +48,26 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Vector1_22861FD8: -0.5
+    - Vector1_F672ED29: -2.5
+    - Vector1_F9141519: 0.99999
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
     - _Cull: 2
     - _Cutoff: 0.5
     - _DstBlend: 0
+    - _EmissionIntensity: 1
     - _EnvironmentReflections: 1
+    - _FadeFalloff: -0.5
+    - _FadeLenght: -2.5
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
+    - _LowestPoint: -6
+    - _MasFalloff: 4
+    - _MaskFalloff: 3
+    - _MaskRadius: 3
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _QueueOffset: 0
@@ -75,6 +85,7 @@ Material:
     - _Color: {r: 0.03941156, g: 0.35854083, b: 0.8000001, a: 1}
     - _EmissionColor: {r: 0.31132078, g: 0.31132078, b: 0.31132078, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _playerPosition: {r: -0.8, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &2735102790869174630
 MonoBehaviour:
