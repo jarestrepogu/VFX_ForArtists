@@ -67,7 +67,7 @@ Material:
     - _LowestPoint: -6
     - _MasFalloff: 4
     - _MaskFalloff: 3
-    - _MaskRadius: 3
+    - _MaskRadius: 4
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _QueueOffset: 0
