@@ -533,7 +533,7 @@
             "m_Guid": ""
         }
     },
-    "m_Path": "Shader Graphs",
+    "m_Path": "VFX_ForArtists",
     "m_ConcretePrecision": 0,
     "m_ActiveOutputNodeGuidSerialized": "24f813ae-1d03-46ef-a8c0-339484791ec6"
 }

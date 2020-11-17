@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_Level
+  m_Name: M_Tiles
   m_Shader: {fileID: -6465566751694194690, guid: 0f53e19363c3db24eb3795224ad4f191, type: 3}
   m_ShaderKeywords: _EMISSION
   m_LightmapFlags: 2
@@ -72,6 +72,7 @@ Material:
     - _OcclusionStrength: 1
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _SmoothAnimation: 0
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1

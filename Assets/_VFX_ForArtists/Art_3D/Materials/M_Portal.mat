@@ -58,7 +58,7 @@ Material:
     - _BorderSize: 0.4
     - _BumpScale: 1
     - _CoreFalloff: 1.18
-    - _CoreSize: 0.9
+    - _CoreSize: 0.1
     - _Cull: 2
     - _Cutoff: 0.5
     - _DstBlend: 0

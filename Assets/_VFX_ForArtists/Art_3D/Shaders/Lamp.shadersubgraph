@@ -84,12 +84,12 @@
         {
             "m_GuidSerialized": "da2c9eff-6430-4fa9-8d44-c16fb88b48d3",
             "m_Title": "Supongamos",
-            "m_Content": "Vamos a suponer que esto es una lámpara... Y para todos los efectos se porta como tal, simplemente toma la máscara (que es esférica) y la multiplica por la textura base. El inverso, tomado del nodo \"One Minus\", sería entonces la sombra.",
+            "m_Content": "Vamos a suponer que esto es una lámpara... Y para todos los efectos se porta como tal, simplemente toma la máscara (que es \"esférica\") y la multiplica por la textura base. El inverso, tomado del nodo \"One Minus\", sería entonces la sombra.",
             "m_TextSize": 0,
             "m_Theme": 0,
             "m_Position": {
                 "serializedVersion": "2",
-                "x": -520.0,
+                "x": -519.0,
                 "y": -275.0,
                 "width": 218.0,
                 "height": 137.0
